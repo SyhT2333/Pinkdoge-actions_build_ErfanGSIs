@@ -9,7 +9,7 @@ env:
   ROM_NAME: MIUI
   BUILD_AB: false
   BUILD_AONLY: true
-  ROM_AONLY:
+  ROM_AONLY: 
   ROM_AB: FLYME
 
 jobs:
